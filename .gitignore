@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.DS_Store
+
+# Virtual environments & Dependencies
+.venv/
+
+# Secrets & Environment variables
+.env
+*.env
+*.env.*
+!.env.example
+creds
+
+# Project outputs & Cache
+ai/review_embeddings.parquet
+zomato/target/
+zomato/dbt_packages/
+logs/
+airflow/logs/
+
+# Large files & Raw local data
+zomato-ai-data-engineering-curriculum.pptx
+data/
