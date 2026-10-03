@@ -512,8 +512,8 @@ streamlit run ai/rag_chat.py
 
 **Sammarth**  
 *Data & AI Engineer*  
-- **GitHub**: [@your-username](https://github.com/)  
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/)
+- **GitHub**: [Sammarth14052018](https://github.com/Sammarth14052018)  
+- **LinkedIn**: [Sammarth](https://www.linkedin.com/in/sammarth/?isSelfProfile=true)
 
 ---
 
